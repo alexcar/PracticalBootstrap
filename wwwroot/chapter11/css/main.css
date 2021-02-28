@@ -1,0 +1,7 @@
+a[data-toggle=popover] {
+    text-decoration: none;
+}
+
+a[data-toggle=popover]:focus {
+    outline: transparent;
+}
